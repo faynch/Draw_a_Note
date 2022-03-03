@@ -5,20 +5,21 @@ The program that combines note and draw features to be in the same program
 ![Banner](https://github.com/faynch/Draw_a_Note/blob/main/Assets/MainWindow.png?raw=True)
 
 ## Note Feature ✏️
+
+![Banner](https://github.com/faynch/Draw_a_Note/blob/main/Assets/Note.png?raw=True)
+
 + New Button : Create the new text file
 + Open Button : Open the existing file from Note folder  
 + Save Button : Save the Note in form of .txt file
 
-![Banner](https://github.com/faynch/Draw_a_Note/blob/main/Assets/Note.png?raw=True)
-
 ![Banner](https://github.com/faynch/Draw_a_Note/blob/main/Assets/NoteFolder.png?raw=True)
 
 ## Draw Feature 🖍
+
+![Banner](https://github.com/faynch/Draw_a_Note/blob/main/Assets/Draw.png?raw=True)
 + New Button : Create the new file to draw
 + Open Button : Open the existing file from Draw folder  
 + Save Button : Save the Note in form of .png file
-
-![Banner](https://github.com/faynch/Draw_a_Note/blob/main/Assets/Draw.png?raw=True)
 
 ![Banner](https://github.com/faynch/Draw_a_Note/blob/main/Assets/DrawFolder.png?raw=True)
 
